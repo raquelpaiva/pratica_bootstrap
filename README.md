@@ -1,3 +1,3 @@
 # pratica_bootstrap
 
-Neste site foi utilizado funcionalidade do framework Bootstrap. 
+Neste site foi utilizado funcionalidades do framework Bootstrap. 
